@@ -1,0 +1,22 @@
+{
+  "name": "macchinodeapp",
+  "version": "1.0.0",
+  "description": "Node app to talk to macchi node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astonmedia/MacchiNodeApp.git"
+  },
+  "author": "Ricky Aston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/astonmedia/MacchiNodeApp/issues"
+  },
+  "homepage": "https://github.com/astonmedia/MacchiNodeApp#readme",
+  "dependencies": {
+    "nodes7": "^0.3.16"
+  }
+}
